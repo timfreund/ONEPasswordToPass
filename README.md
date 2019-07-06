@@ -1,6 +1,6 @@
 # ONEPasswordToPass
 
-Back up your [1password](https://1password.com/) items to [Pass](https://www.passwordstore.org/)
+Back up your [1Password](https://1password.com/) items to [Pass](https://www.passwordstore.org/)
 
 1Password is awesome, doubly so when sharing passwords with a team,
 spouse, or significant other.  Your passwords are stored and shared
